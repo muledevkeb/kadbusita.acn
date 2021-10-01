@@ -5,13 +5,6 @@ I'm a MuleSoft Developer based in Quezon City, Philippines; who specializes in:
 - Full-cycle Software Development 
 - Developing customized APIs using MuleSoft Technology
 - Collaborating in open-source and closed-source projects
-
-<p align="center">
-  <a href="https://github.com/muledevkeb">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muledevkeb&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" />
-  </a>
-</p>
-
 -----
 <div align=center>
 
