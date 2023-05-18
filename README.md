@@ -1,10 +1,11 @@
-## Greetings, I'm Keiven Adrian Busita.
+## Greetings, I'm Keiven Adrian!
 
-I'm a MuleSoft Developer based in Quezon City, Philippines; who specializes in:
+I'm a Muley based in Quezon City, Philippines; who specializes in:
 
 - Full-cycle Software Development 
 - Developing customized APIs using MuleSoft Technology
 - Collaborating in open-source and closed-source projects
+- MuleSoft Technology
 -----
 <div align=center>
 
